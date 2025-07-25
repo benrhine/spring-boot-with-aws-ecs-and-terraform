@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.benrhine.kubernetes_example_simple.SpringBootWithAwsEcsAndTerraformTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-06-18T15:01:20.931Z" hostname="shadowbox.localdomain" time="0.538">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.benrhine.kubernetes_example_simple.SpringBootWithAwsEcsAndTerraformTests" time="0.538"/>
+  <system-out><![CDATA[09:01:19.867 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.benrhine.kubernetes_example_simple.SpringBootWithAwsEcsAndTerraformTests]: SpringBootWithAwsEcsAndTerraformTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+09:01:19.927 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.benrhine.kubernetes_example_simple.SpringBootWithAwsEcsAndTerraform for test class com.benrhine.kubernetes_example_simple.SpringBootWithAwsEcsAndTerraformTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.4.5)
+
+2025-06-18T09:01:20.159-06:00  INFO 81927 --- [kubernetes-example-simple] [    Test worker] .k.SpringBootWithAwsEcsAndTerraformTests : Starting SpringBootWithAwsEcsAndTerraformTests using Java 17.0.6 with PID 81927 (started by xtheshadowgod in /Users/xtheshadowgod/Repository/spring-boot-with-aws-ecs-and-terraform)
+2025-06-18T09:01:20.161-06:00  INFO 81927 --- [kubernetes-example-simple] [    Test worker] .k.SpringBootWithAwsEcsAndTerraformTests : No active profile set, falling back to 1 default profile: "default"
+2025-06-18T09:01:20.923-06:00  INFO 81927 --- [kubernetes-example-simple] [    Test worker] .k.SpringBootWithAwsEcsAndTerraformTests : Started SpringBootWithAwsEcsAndTerraformTests in 0.918 seconds (process running for 1.446)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
